@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/olifer/static/css/main.a1889f8b.css",
+    "main.js": "/olifer/static/js/main.e86b051c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/olifer/static/js/787.28cb0dcd.chunk.js",
+    "static/media/foto.png": "/olifer/static/media/foto.01fa779dcc3733b3d460.png",
+    "static/media/logo.png": "/olifer/static/media/logo.f2124bd0ce18cf227ad0.png",
+    "static/media/Calibri_bold.ttf": "/olifer/static/media/Calibri_bold.952f1ae64afe47a25173.ttf",
+    "static/media/Inter-Bold.ttf": "/olifer/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
+    "static/media/Inter-SemiBold.ttf": "/olifer/static/media/Inter-SemiBold.4d56bb21f2399db8ad48.ttf",
+    "static/media/Inter-Regular.ttf": "/olifer/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "static/media/fon2.jpg": "/olifer/static/media/fon2.3d45b16cc99e833f8126.jpg",
+    "static/media/fon3.jpg": "/olifer/static/media/fon3.cce0380bf1a14273c13e.jpg",
+    "static/media/Nunito-Regular.ttf": "/olifer/static/media/Nunito-Regular.99a3b019e7727ac19479.ttf",
+    "static/media/map.png": "/olifer/static/media/map.7c0ca79fe49e88bcdb44.png",
+    "static/media/close.png": "/olifer/static/media/close.89e01be2e7e9eeec4a59.png",
+    "index.html": "/olifer/index.html",
+    "main.a1889f8b.css.map": "/olifer/static/css/main.a1889f8b.css.map",
+    "main.e86b051c.js.map": "/olifer/static/js/main.e86b051c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/olifer/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1889f8b.css",
+    "static/js/main.e86b051c.js"
+  ]
+}
